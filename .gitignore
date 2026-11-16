@@ -1,0 +1,18 @@
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Lambda Layer dependencies
+pandas-layer/
+
+# AWS credentials and environment files
+.env
+.env.*
+.aws/
+
+# Local editor files
+.vscode/
+.idea/
